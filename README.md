@@ -4,7 +4,7 @@ Welcome to my NLP learning repository! This is where I keep a record of my journ
 
 ## Contents
 
-1. [Intro_LLM](Intro_LLM)
+1. [Intro_LLM](Intro_LLM.pdf)
 
 ## Intro_LLM
 
